@@ -1,7 +1,7 @@
 # 🎵 Spotify Clone - Music Player Web App
 
 <div align="center">
-  <img src="./assets.spotify-clone.png" alt="Bulb & Cat Preview" width="400px" height="650">
+  <img src="./assets/spotify-clone.png"  width="400px" height="650">
 </div>
 
 
