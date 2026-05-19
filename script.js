@@ -19,45 +19,43 @@ let masterSongName = document.getElementById("masterSongName");
 let songs = [
   {
     songName: "Salvatore",
-    filePath: "songs/1.mp3",
-    coverPath: "cover/1.jpg",
+    filePath: "./assets/songs/1.mp3",
+    coverPath: "./assets/cover/1.jpg",
     timeStamp: "4:41",
   },
 
   {
     songName: "Golden Brown",
-    filePath: "songs/2.mp3",
-    coverPath: "cover/2.jpg",
+    filePath: "./assets/songs/2.mp3",
+    coverPath: "./assets/cover/2.jpg",
     timeStamp: "2:54",
   },
 
-  
-
   {
     songName: "Until I Found You",
-    filePath: "songs/3.mp3",
-    coverPath: "cover/3.jpg",
+    filePath: "./assets/songs/3.mp3",
+    coverPath: "./assets/cover/3.jpg",
     timeStamp: "4:01",
   },
 
   {
     songName: "Heat Waves",
-    filePath: "songs/4.mp3",
-    coverPath: "cover/4.jpg",
+    filePath: "./assets/songs/4.mp3",
+    coverPath: "./assets/cover/4.jpg",
     timeStamp: "3:57",
   },
 
   {
     songName: "Ride or Die",
-    filePath: "songs/5.mp3",
-    coverPath: "cover/5.jpg",
+    filePath: "./assets/songs/5.mp3",
+    coverPath: "./assets/cover/5.jpg",
     timeStamp: "2:34",
   },
 
   {
     songName: "Harleys in Hawaii",
-    filePath: "songs/6.mp3",
-    coverPath: "cover/6.jpg",
+    filePath: "./assets/songs/6.mp3",
+    coverPath: "./assets/cover/6.jpg",
     timeStamp: "3:05",
   },
 ];
