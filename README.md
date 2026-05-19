@@ -51,28 +51,27 @@ Spotify-Clone/
 ├── style.css
 ├── script.js
 │
-├── songs/
-│   ├── 1.mp3
-│   ├── 2.mp3
-│   ├── 3.mp3
-│   ├── 4.mp3
-│   ├── 5.mp3
-│   └── 6.mp3
-│
-├── cover/
-│   ├── 1.jpg
-│   ├── 2.jpg
-│   ├── 3.jpg
-│   ├── 4.jpg
-│   ├── 5.jpg
-│   ├── 6.jpg
-│   └── bg.jpg
-│
 ├── assets/
 │   ├── Spotify_icon.svg.png
-│   └── playing.gif
-│
-└── screenshots/
+│   ├── playing.gif
+│   ├── spotify-clone.png
+│   │
+│   ├── songs/
+│   │   ├── 1.mp3
+│   │   ├── 2.mp3
+│   │   ├── 3.mp3
+│   │   ├── 4.mp3
+│   │   ├── 5.mp3
+│   │   └── 6.mp3
+│   │
+│   └── cover/
+│       ├── 1.jpg
+│       ├── 2.jpg
+│       ├── 3.jpg
+│       ├── 4.jpg
+│       ├── 5.jpg
+│       ├── 6.jpg
+│       └── bg.jpg
 ```
 
 ---
@@ -105,8 +104,8 @@ The songs are stored inside a JavaScript array containing:
 let songs = [
   {
     songName: "Salvatore",
-    filePath: "songs/1.mp3",
-    coverPath: "cover/1.jpg",
+    filePath: "./assets/songs/1.mp3",
+    coverPath: "./assets/cover/1.jpg",
     timeStamp: "4:41",
   }
 ];
@@ -212,7 +211,7 @@ This project helps in understanding:
 
 # 👩‍💻 Author
 
-Made with ❤️ by **Amisha**
+Made with ❤️ by **Amisha Patel**
 
 ---
 
