@@ -1,7 +1,7 @@
 # 🎵 Spotify Clone - Music Player Web App
 
 <div align="center">
-  <img src="./assets/spotify-clone.png"  width="400px" height="1050">
+  <img src="./assets/spotify-clone.png" >
 </div>
 
 
