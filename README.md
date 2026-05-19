@@ -8,6 +8,11 @@
 
 ---
 
+## 🔥 Live Preview
+👉 https://favmuse.netlify.app/
+
+---
+
 # 📖 About The Project
 
 A responsive **Spotify-inspired Music Player Web App** built using **HTML, CSS, and JavaScript**.
