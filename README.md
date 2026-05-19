@@ -2,7 +2,7 @@
 
 
 
-![Screenshot 3](./assets.spotify-clone.png)
+(./assets.spotify-clone.png)
 
 ---
 
