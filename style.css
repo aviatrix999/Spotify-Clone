@@ -39,15 +39,19 @@ nav ul li {
 .container {
   
   background-color: black;
-  color:black;
+  color: white;
   font-family: "Varela Round", sans-serif;
   display: flex;
   margin: 100px auto;
   width: 60%;
   background-size:cover;
   border-radius: 12px;
-  padding: 20px;
+  padding: 30px;
   background-image: url("./cover/bg.jpg");
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+  text-decoration: underline;
 }
 
 .bottom {
